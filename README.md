@@ -6,8 +6,9 @@ Sistema de punto de venta **multi-stack**, válido para cualquier negocio y nich
 
 | Versión | Tech stack | Tipo | Estado |
 |---|---|---|---|
-| [`python/`](python/) | Python + CustomTkinter + SQLite | Desktop | ✅ Completa |
-| [`nuxt/`](nuxt/) | Nuxt + Prisma + Yarn | Web SSR | 🚧 En desarrollo |
+| [`astro/`](withastro/) | Astro + Prisma + Bun | Web SSR | 🚧 En desarrollo |
+| [`nuxt/`](withnuxt/) | Nuxt + Prisma + Yarn | Web SSR | 🚧 En desarrollo |
+| [`python/`](withpython/) | Python + CustomTkinter + SQLite | Desktop | ✅ Completa |
 
 ## Funcionalidades comunes
 
