@@ -28,6 +28,18 @@ node_modules/
 *.swo
 *~
 
+# AI & Agent Tools
+.atl/
+.opencode/
+.cursor/
+.copilot/
+.aider/
+.cline/
+.continue/
+.codeium/
+.agents/
+codegraph/
+
 # OS
 .DS_Store
 Thumbs.db
